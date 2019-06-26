@@ -1,0 +1,49 @@
+        LandisData      "Land type Attributes"
+
+
+>> Year Ecoregion/landtype Maps
+10
+    10 		landtype4.gis
+    20 		landtype4.gis
+    30 		landtype4.gis
+    40 		landtype4.gis
+    50 		landtype4.gis
+    60 		landtype4.gis
+    70 		landtype4.gis
+    80 		landtype4.gis
+    90 		landtype4.gis
+   100 		landtype4.gis
+
+
+>> minimum years for Species Shade Tolearnce 5 Establishment for each Ecoregions/landtype
+>>empty  sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope
+ 40 40    40   40 40 40 40 40    40   40 40 40 40 40    40   40 40 40 40 
+
+
+
+>> GrowingSpaceOccupied(GSO) ForEachEcoregion/landtype
+>>  --------------------        ------------------
+>>empty  sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope sw.slope  ne.slope  ridge  updrain  bottoms  gentleslope
+ 0 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35
+ 0 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55 0.55
+ 0 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+
+
+
+
+>> maximum GSO
+>> each line corresponds to one succession timestep
+
+>>    empty   sw.slope   ne.slope    ridge    updrain    bottoms  gentleslope sw.slope   ne.slope    ridge    updrain    bottoms  gentleslope sw.slope   ne.slope    ridge    updrain    bottoms  gentleslope
+0 0.896 0.896 0.896 0.896 0.896 0.896 0.927 0.927 0.927 0.927 0.927 0.927 0.892 0.892 0.892 0.892 0.892 0.892
+0 0.896 0.896 0.896 0.896 0.896 0.896 0.927 0.927 0.927 0.927 0.927 0.927 0.892 0.892 0.892 0.892 0.892 0.892
+0 0.891 0.891 0.891 0.891 0.891 0.891 0.915 0.915 0.915 0.915 0.915 0.915 0.887 0.887 0.887 0.887 0.887 0.887
+0 0.887 0.887 0.887 0.887 0.887 0.887 0.903 0.903 0.903 0.903 0.903 0.903 0.883 0.883 0.883 0.883 0.883 0.883
+0 0.882 0.882 0.882 0.882 0.882 0.882 0.891 0.891 0.891 0.891 0.891 0.891 0.878 0.878 0.878 0.878 0.878 0.878
+0 0.877 0.877 0.877 0.877 0.877 0.877 0.879 0.879 0.879 0.879 0.879 0.879 0.874 0.874 0.874 0.874 0.874 0.874
+0 0.873 0.873 0.873 0.873 0.873 0.873 0.867 0.867 0.867 0.867 0.867 0.867 0.869 0.869 0.869 0.869 0.869 0.869
+0 0.868 0.868 0.868 0.868 0.868 0.868 0.855 0.855 0.855 0.855 0.855 0.855 0.865 0.865 0.865 0.865 0.865 0.865
+0 0.864 0.864 0.864 0.864 0.864 0.864 0.843 0.843 0.843 0.843 0.843 0.843 0.86  0.86  0.86  0.86  0.86  0.86
+0 0.859 0.859 0.859 0.859 0.859 0.859 0.832 0.832 0.832 0.832 0.832 0.832 0.855 0.855 0.855 0.855 0.855 0.855
+0 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.82 0.851 0.851 0.851 0.851 0.851 0.851
+

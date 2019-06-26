@@ -1,0 +1,24 @@
+LandisData  Species
+
+>>                      Sexual    Shade  Fire  Seed Disperal Dist  Vegetative   Sprout Age  Post-Fire     
+>> Name      Longevity  Maturity  Tol.   Tol.  Effective  Maximum  Reprod Prob  Min   Max   Regen                                        
+>> ----      ---------  --------  -----  ----  ---------  -------  -----------  ----------  --------   
+
+redmaple        150    10  4     2    100  540  0.9   10    100    none
+chestoak        300    20  4     3    100  270  0.7   10    170    none
+northredoak     200    30  3     3    100  270  0.7   10    120    none
+yellowpop       200    20  2     5    100  540  0.5   20    150    none
+whiteoak        300    40  4     4    100  270  0.6   10    100    none
+sugarmaple      300    20  5     2    100  540  0.8   20     80    none
+blackcherry     150    20  2     5    100  270  0.8   20    100    none
+blackoak        150    20  3     2    100  270  0.6   10    100    none
+whiteash        200    30  3     3    100  540  0.6   10    150    none
+amerbeech       300    20  5     5    100  270  0.8   10    100    none
+scarletoak      150    30  3     5    100  270  0.7   10    100    none
+hickory         200    30  3     2    100  270  0.6   20    200    none
+hemlock         300    20  5     2    100  540  0      0      1    none
+whitepine       250    20  3     3    100  540  0      0      1    none
+redcedar        300    10  2     5    100  270  0      0      1    none
+Lobpine         150    20  3     3    100  270  0.4   20    100    none
+redspruce       300    20  4     5    100  540  0      0      0    none 
+pseudosp        200    30  3     3    100  270  0.5   20    120    none

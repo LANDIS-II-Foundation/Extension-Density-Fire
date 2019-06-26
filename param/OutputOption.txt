@@ -1,0 +1,70 @@
+LandisData   "Output option"
+
+whiteoak    Y Y Y N N N
+chestoak    Y Y Y N N N
+northredoak Y Y Y N N N
+blackoak    Y Y Y N N N
+scarletoak  Y Y Y N N N
+redmaple    Y Y Y N N N     
+sugarmaple  Y Y Y N N N            
+yellowpop   Y Y Y N N N    
+amerbeech   Y Y Y N N N      
+hemlock     Y Y Y N N N 
+hickory     Y Y Y N N N  
+blackcherry Y Y Y N N N         
+whiteash    Y Y Y N N N     
+whitepine   Y Y Y N N N     
+redcedar    Y Y Y N N N     
+Lobpine     Y Y Y N N N     
+redspruce   Y Y Y N N N     
+pseudosp    Y Y Y N N N    
+           
+           
+   
+Total  Y Y Y Y N      
+           
+N 
+            
+whiteoak    N N N N
+chestoak    N N N N
+northredoak N N N N
+blackoak    N N N N
+scarletoak  N N N N
+redmaple    N N N N     
+sugarmaple  N N N N            
+yellowpop   N N N N    
+amerbeech   N N N N      
+hemlock     N N N N 
+hickory     N N N N  
+blackcherry N N N N         
+whiteash    N N N N     
+whitepine   N N N N     
+redcedar    N N N N   
+Lobpine     N N N N    
+redspruce   N N N N     
+pseudosp    N N N N   
+           
+     
+Total Y Y N N N      
+           
+whiteoak    1 10-300
+chestoak    1 10-300
+northredoak 1 10-200
+blackoak    1 10-150
+scarletoak  1 10-150
+redmaple    1 10-150     
+sugarmaple  1 10-300            
+yellowpop   1 10-200    
+amerbeech   1 10-300      
+hemlock     1 10-300 
+hickory     1 10-200  
+blackcherry 1 10-150        
+whiteash    1 10-200     
+whitepine   1 10-250     
+redcedar    1 10-300   
+Lobpine     1 10-150    
+redspruce   1 10-300     
+pseudosp    1 10-200        
+           
+ 
+N/A         

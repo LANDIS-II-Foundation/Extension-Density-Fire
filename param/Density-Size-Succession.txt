@@ -1,0 +1,36 @@
+LandisData  "Density-Size-Succession"
+
+Timestep  10
+
+SeedingAlgorithm  DISPERSAL 
+
+
+InitialCommunitiesWithAge        	 	MapAttributeWithAge.txt
+>>	InitialCommunitiesWithTreeNumber   MapAttributeWithTreeNumber.txt
+>>InitialCommunitiesMap            					SppComp.gis
+InitialCommunitiesMap   						EastSPP4.img
+
+
+LandtypeAttributesFile					 LandtypeAttributes.txt
+Environment_change 	 										  1 << 0:false, otherwise: true
+DynamicInputFile	 density-size-succession-dynamic-inputs.txt
+
+
+ExtraSpeciesAttributeFile				extra_spe_attribute.txt
+SpeciesGrowthRatesbyLandtypeFile  		GrowthRateBySection.txt
+
+
+BiomassVariableFile								BioMassCoef.txt
+RandomSeedForLandisPro										 90
+MortalityRate												  0  << 0 means using default value
+SpeciesHeight												  0  << 0 means using default value
+
+OutPutOptionFile    						   OutputOption.txt
+OutPutDirectory     									      1
+FrequencyOutPutOptionFile 						   freq_out.txt
+
+HarvestTimestep    10
+FireTimestep    10
+StockingX   -0.00507
+StockingY   0.01698
+StockingZ   0.00317
